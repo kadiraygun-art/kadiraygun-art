@@ -38,7 +38,6 @@
 | Sistem Mimarisi | Kapsam | Canlı Portal |
 | :--- | :--- | :--- |
 | **[gys-enterprise-architecture](https://github.com/kadiraygun-art/gys-enterprise-architecture)** | Çok şubeli İK, 361 soruluk iç denetim matrisi, otomatik DÖF takibi, LMS ve 5510/4857 uyum merkezi | [gys.generalist.tr](https://gys.generalist.tr/) |
-| **[erp-treasury-architecture](https://github.com/kadiraygun-art/erp-treasury-architecture)** | Çok şirketli yapılarda stok, cari, hazine/nakit akışı ve üst yönetim finansal konsolidasyon mimarisi | [generalist.tr/erp](https://generalist.tr/erp/) |
 | **[leader-executive-studio](https://github.com/kadiraygun-art/leader-executive-studio)** | Yönetici öz-yönetimi, GROW/SBI koçluk çerçeveleri, tez/akademi araştırmaları ve bilişsel takip sistemleri | [generalist.tr/leader](https://generalist.tr/leader/) |
 | **[hr-payroll-calculators](https://github.com/kadiraygun-art/hr-payroll-calculators)** | 5510/4857 mevzuat uyumlu açık erişim Aylık Puantaj Cetveli ve Brüt ↔ Net Bordro simülasyon motoru | [Bordro & Puantaj](https://generalist.tr/hesaplama/bordro.php) |
 
