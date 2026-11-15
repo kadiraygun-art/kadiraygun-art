@@ -29,7 +29,7 @@
 | **Kurumsal Liderlik & İK Sistemleri** | Özbağ Group (kuyumculuk, rafineri, döviz ve dış ticaret operasyonları) bünyesinde çok şirketli İK yönetimi, ISO 9001 kalite sistemleri, SGK/İş Hukuku uyumu ve süreç koordinasyonu |
 | **Yazılım & Dijital Ekosistem** | Çok kiracılı (multi-tenant) web portalları, ERP & hazine izleme, PDKS/puantaj otomasyonu, 361 soruluk iç denetim matrisleri ve yönetici karar destek araçları |
 | **Akademik & Analitik Temel** | Fizik, Kamu Yönetimi, İnsan Kaynakları ve Sosyal Bilimler perspektifinin sistem düşüncesiyle entegrasyonu; telif kitap ve köşe yazısı çalışmaları |
-| **Saha & Zanaat** | Yüksek irtifa dağcılık, gemoloji/mineraloji ve geleneksel İznik çini sanatı |
+| **Saha & Zanaat** | Yüksek irtifa dağcılık, gemoloji/mineraloji ve karakalem resim çizim sanatı |
 
 ---
 
