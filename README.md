@@ -29,7 +29,7 @@
 | **Kurumsal Liderlik & İK Sistemleri** | Özbağ Group (kuyumculuk, rafineri, döviz ve dış ticaret operasyonları) bünyesinde çok şirketli İK yönetimi, ISO 9001 kalite sistemleri, SGK/İş Hukuku uyumu ve süreç koordinasyonu |
 | **Yazılım & Dijital Ekosistem** | Çok kiracılı (multi-tenant) web portalları, ERP & hazine izleme, PDKS/puantaj otomasyonu, 361 soruluk iç denetim matrisleri ve yönetici karar destek araçları |
 | **Akademik & Analitik Temel** | Fizik, Kamu Yönetimi, İnsan Kaynakları ve Sosyal Bilimler perspektifinin sistem düşüncesiyle entegrasyonu; telif kitap ve köşe yazısı çalışmaları |
-| **Saha & Zanaat** | Yüksek irtifa dağcılık, gemoloji/mineraloji ve karakalem resim çizim sanatı |
+| **Saha, Sanat & Doğa Bilimleri** | Dağcılık & alpinizm, gemoloji/mücevher koleksiyonculuğu, karakalem portre çalışmaları, astrofizik/kuantum mekaniği ve doğa araştırmaları |
 
 ---
 
@@ -38,6 +38,7 @@
 | Sistem Mimarisi | Kapsam | Canlı Portal |
 | :--- | :--- | :--- |
 | **[gys-enterprise-architecture](https://github.com/kadiraygun-art/gys-enterprise-architecture)** | Çok şubeli İK, 361 soruluk iç denetim matrisi, otomatik DÖF takibi, LMS ve 5510/4857 uyum merkezi | [gys.generalist.tr](https://gys.generalist.tr/) |
+| **[erp-treasury-architecture](https://github.com/kadiraygun-art/erp-treasury-architecture)** | Çok şirketli yapılarda stok, cari, hazine/nakit akışı ve üst yönetim finansal konsolidasyon mimarisi | [generalist.tr/erp](https://generalist.tr/erp/) |
 | **[leader-executive-studio](https://github.com/kadiraygun-art/leader-executive-studio)** | Yönetici öz-yönetimi, GROW/SBI koçluk çerçeveleri, tez/akademi araştırmaları ve bilişsel takip sistemleri | [generalist.tr/leader](https://generalist.tr/leader/) |
 | **[hr-payroll-calculators](https://github.com/kadiraygun-art/hr-payroll-calculators)** | 5510/4857 mevzuat uyumlu açık erişim Aylık Puantaj Cetveli ve Brüt ↔ Net Bordro simülasyon motoru | [Bordro & Puantaj](https://generalist.tr/hesaplama/bordro.php) |
 
