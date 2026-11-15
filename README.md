@@ -38,7 +38,6 @@
 | Sistem Mimarisi | Kapsam | Canlı Portal |
 | :--- | :--- | :--- |
 | **[gys-enterprise-architecture](https://github.com/kadiraygun-art/gys-enterprise-architecture)** | Çok şubeli İK, 361 soruluk iç denetim matrisi, otomatik DÖF takibi, LMS ve 5510/4857 uyum merkezi | [gys.generalist.tr](https://gys.generalist.tr/) |
-| **[erp-treasury-architecture](https://github.com/kadiraygun-art/erp-treasury-architecture)** | Çok şirketli yapılarda stok, cari, hazine/nakit akışı ve üst yönetim finansal konsolidasyon mimarisi | [generalist.tr/erp](https://generalist.tr/erp/) |
 | **[leader-executive-studio](https://github.com/kadiraygun-art/leader-executive-studio)** | Yönetici öz-yönetimi, GROW/SBI koçluk çerçeveleri, tez/akademi araştırmaları ve bilişsel takip sistemleri | [generalist.tr/leader](https://generalist.tr/leader/) |
 | **[hr-payroll-calculators](https://github.com/kadiraygun-art/hr-payroll-calculators)** | 5510/4857 mevzuat uyumlu açık erişim Aylık Puantaj Cetveli ve Brüt ↔ Net Bordro simülasyon motoru | [Bordro & Puantaj](https://generalist.tr/hesaplama/bordro.php) |
 
@@ -46,7 +45,7 @@
 
 ### Canlı Ekosistem Haritası (`generalist.tr`)
 
-- **Kurumsal Yönetim & İK:** [GYS (`gys.generalist.tr`)](https://gys.generalist.tr/) • [Personel & PDKS (`generalist.tr/personel`)](https://generalist.tr/personel/) • [Kurumsal ERP (`generalist.tr/erp`)](https://generalist.tr/erp/)
+- **Kurumsal Yönetim & İK:** [GYS (`gys.generalist.tr`)](https://gys.generalist.tr/)
 - **Liderlik & Akademi:** [Liderlik Stüdyosu (`generalist.tr/leader`)](https://generalist.tr/leader/) • [Akademi & Tez Stüdyosu (`akademi.generalist.tr`)](https://akademi.generalist.tr/) • [Ders Takip Pro (`derstakip.generalist.tr`)](https://derstakip.generalist.tr/)
 - **Saha, Mimari & Finans:** [Saha Görev & OPS (`saha.generalist.tr`)](https://saha.generalist.tr/) • [ALLATRA 2.5D Mimari (`allatra.generalist.tr`)](https://allatra.generalist.tr/) • [BİKAT Koordinasyon (`bikat.generalist.tr`)](https://bikat.generalist.tr/) • [Ev Bütçesi (`evbutcesi.generalist.tr`)](https://evbutcesi.generalist.tr/)
 - **Açık Erişim Hesaplama Araçları:** [Aylık Puantaj Cetveli](https://generalist.tr/hesaplama/puantaj.php) • [Brüt ↔ Net Bordro Simülatörü](https://generalist.tr/hesaplama/bordro.php)
